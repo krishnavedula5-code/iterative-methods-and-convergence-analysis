@@ -16,4 +16,3 @@ Jacobi converges if:
 
 where ρ is spectral radius.
 
-This is crucial. Professors will notice if you include spectral radius discussion.
