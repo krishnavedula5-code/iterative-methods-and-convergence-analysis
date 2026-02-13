@@ -16,3 +16,9 @@ Jacobi converges if:
 
 where ρ is spectral radius.
 
+In particular, Jacobi converges if:
+
+A is strictly diagonally dominant, or
+
+A is symmetric positive definite (with additional assumptio
+
